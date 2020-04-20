@@ -6,4 +6,6 @@ Para este proyecto hemos usado la misma plataforma y le hemos añadido un motor 
 Antes de ponernos con la motorización será necesario modificar la plataforma anterior, hay que recortar los perfiles laterales 17mm 
 para que entre en la maquina una vez tengamos puesto el motor y demás. Para más información podeis ver este video.
 
+De momento os he puesto un part list con todas las partes necesarias y el firmware para arduino (plataforma_motorizada.ino)
+
 En construcción.
